@@ -23,6 +23,7 @@
     "grunt-contrib-jshint": "^0.11.3",
     "grunt-jsdoc": "^1.1.0",
     "grunt-mocha-test": "^0.12.7",
+    "minimist": "^1.2.0",
     "mocha": "^2.3.4",
     "q": "^1.4.1"
   }
