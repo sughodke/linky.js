@@ -1,0 +1,21 @@
+{
+  "name": "linky.js",
+  "version": "0.0.1",
+  "description": "Simulate a lossy network link, by selectively dropping packets going across this Proxy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sughodke.github.com/linky.js/"
+  },
+  "keywords": [
+    "link",
+    "proxy",
+    "lossy",
+    "cellular"
+  ],
+  "author": "Sid Ghodke",
+  "license": "ISC"
+}
