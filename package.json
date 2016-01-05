@@ -2,7 +2,7 @@
   "name": "linky.js",
   "version": "0.0.1",
   "description": "Simulate a lossy network link, by selectively dropping packets going across this Proxy.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "grunt"
   },
@@ -17,5 +17,13 @@
     "cellular"
   ],
   "author": "Sid Ghodke",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-jsdoc": "^1.1.0",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.3.4",
+    "q": "^1.4.1"
+  }
 }
